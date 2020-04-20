@@ -1,0 +1,94 @@
+
+
+.container {
+  width: 400px;
+  height: 630px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+select {
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+
+  
+}
+
+.image {
+  margin-top: 10px;
+  height: 280px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.playerStats {
+  height: 310px;
+  border: 1px solid black;
+  background-color: #E5287B;
+  background-color: #D12772;
+  background-color: #CD225B;
+}
+
+.player {
+  position: relative;
+  left: 27px;
+  width: 90%;
+  color: white;
+
+
+}
+
+#playerName {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-top: 15px;
+
+}
+
+
+#playerPosition {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin-top: 5px;
+
+}
+
+.stats {
+  border: 1px solid black;
+  position: relative;
+  left: 25px;
+  width: 348px;
+  height: 40px;
+  background-color: white;
+  opacity: 0.9;
+  margin-top: 5px;
+  
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  position: relative;
+  left: 10px;
+  bottom: 6px;
+}
+
+span {
+  position: relative;
+  float: right;
+  right: 19px;
+}
+
+
+
+
+
+
+
+
+
